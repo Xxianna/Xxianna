@@ -1,5 +1,7 @@
 # Hi there 👋
 
+- my blog: http://43.143.33.233:59991/index.html
+
 <!--
 **Xxianna/Xxianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
